@@ -5,6 +5,7 @@ import { FaFilter } from "react-icons/fa";
 const Header = () => {
   return (
     <header className="header">
+      
       <div className="logo">foodislice</div>
       <div className="search-bar">
         <input type="text" placeholder="Search food" />
