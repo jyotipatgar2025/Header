@@ -19,7 +19,8 @@ const Header = () => {
           alt="Profile"
           className="profile-pic"
         />
-        <span>David Brown ▼</span>
+        <span>David▼</span>
+        
       </div>
     </header>
   );
